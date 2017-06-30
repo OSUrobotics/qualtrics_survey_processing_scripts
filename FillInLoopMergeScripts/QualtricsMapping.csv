@@ -1,0 +1,251 @@
+Block, Question, URL, ComplexityType, ComparisonType, Name
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spring-18.jpg />,1,1,spring-18
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chopper-10.jpg />,1,1,chopper-10
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device4-12.jpg />,1,1,device4-12
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bird-1.jpg />,1,1,bird-1
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device8-17.jpg />,1,1,device8-17
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fish-1.jpg />,1,1,fish-1
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-1.jpg />,1,1,lmfish-1
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device4-17.jpg />,1,1,device4-17
+1,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chopper-01.jpg />,1,1,chopper-01
+1,1,more complex than ,1,1,Question
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/elephant-3.jpg />,1,1,elephant-3
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fork-10.jpg />,1,1,fork-10
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/teddy-01.jpg />,1,1,teddy-01
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device7-6.jpg />,1,1,device7-6
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device0-2.jpg />,1,1,device0-2
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/octopus-13.jpg />,1,1,octopus-13
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/teddy-17.jpg />,1,1,teddy-17
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bat-5.jpg />,1,1,bat-5
+1,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device1-16.jpg />,1,1,device1-16
+1,2,more complex than ,1,1,Question
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/dog-14.jpg />,1,1,dog-14
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device7-17.jpg />,1,1,device7-17
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device6-2.jpg />,1,1,device6-2
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device1-11.jpg />,1,1,device1-11
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/teddy-18.jpg />,1,1,teddy-18
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/teddy-08.jpg />,1,1,teddy-08
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/butterfly-13.jpg />,1,1,butterfly-13
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device1-10.jpg />,1,1,device1-10
+1,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/elephant-9.jpg />,1,1,elephant-9
+1,3,more complex than ,1,1,Question
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cup-15.jpg />,1,1,cup-15
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/personal_car-16.jpg />,1,1,personal_car-16
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/brick-11.jpg />,1,1,brick-11
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/brick-12.jpg />,1,1,brick-12
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/flatfish-4.jpg />,1,1,flatfish-4
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/brick-01.jpg />,1,1,brick-01
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/guitar-14.jpg />,1,1,guitar-14
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/pocket-16.jpg />,1,1,pocket-16
+1,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cup-11.jpg />,1,1,cup-11
+1,4,more complex than ,1,1,Question
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/ray-13.jpg />,1,1,ray-13
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/tree-18.jpg />,1,1,tree-18
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Bone-3.jpg />,1,1,Bone-3
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/car-01.jpg />,1,1,car-01
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fountain-20.jpg />,1,1,fountain-20
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Misk-19.jpg />,1,1,Misk-19
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device6-1.jpg />,1,1,device6-1
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/classic-7.jpg />,1,1,classic-7
+1,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device1-13.jpg />,1,1,device1-13
+1,5,more complex than ,1,1,Question
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-1.jpg />,1,1,lmfish-1
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device8-17.jpg />,1,1,device8-17
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chopper-01.jpg />,1,1,chopper-01
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device4-12.jpg />,1,1,device4-12
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device5-14.jpg />,1,1,device5-14
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spring-18.jpg />,1,1,spring-18
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bat-10.jpg />,1,1,bat-10
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chopper-10.jpg />,1,1,chopper-10
+2,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/turtle-14.jpg />,1,1,turtle-14
+2,1,more complex than ,1,1,Question
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-9.jpg />,1,1,key-9
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Glas-2.jpg />,1,1,Glas-2
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/hammer-7.jpg />,1,1,hammer-7
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/crown-2.jpg />,1,1,crown-2
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spoon-5.jpg />,1,1,spoon-5
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/hat-19.jpg />,1,1,hat-19
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Heart-5.jpg />,1,1,Heart-5
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/hat-15.jpg />,1,1,hat-15
+2,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/horseshoe-15.jpg />,1,1,horseshoe-15
+2,2,more complex than ,1,1,Question
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/apple-3.jpg />,1,1,apple-3
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/truck-02.jpg />,1,1,truck-02
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/flatfish-6.jpg />,1,1,flatfish-6
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cup-12.jpg />,1,1,cup-12
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-6.jpg />,1,1,lmfish-6
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-15.jpg />,1,1,key-15
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/car-14.jpg />,1,1,car-14
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-9.jpg />,1,1,children-9
+2,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device4-15.jpg />,1,1,device4-15
+2,3,more complex than ,1,1,Question
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/truck-20.jpg />,1,1,truck-20
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bell-14.jpg />,1,1,bell-14
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/jar-9.jpg />,1,1,jar-9
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-11.jpg />,1,1,children-11
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-19.jpg />,1,1,lmfish-19
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fountain-01.jpg />,1,1,fountain-01
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fish-17.jpg />,1,1,fish-17
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/guitar-20.jpg />,1,1,guitar-20
+2,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-19.jpg />,1,1,children-19
+2,4,more complex than ,1,1,Question
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device9-1.jpg />,1,1,device9-1
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bell-2.jpg />,1,1,bell-2
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/hammer-11.jpg />,1,1,hammer-11
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/pencil-10.jpg />,1,1,pencil-10
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cellular_phone-13.jpg />,1,1,cellular_phone-13
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Comma-17.jpg />,1,1,Comma-17
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/pencil-6.jpg />,1,1,pencil-6
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/hammer-8.jpg />,1,1,hammer-8
+2,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spoon-11.jpg />,1,1,spoon-11
+2,5,more complex than ,1,1,Question
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bat-13.jpg />,1,2,bat-13
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/classic-20.jpg />,1,2,classic-20
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/turtle-12.jpg />,1,2,turtle-12
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-10.jpg />,1,2,lmfish-10
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bat-8.jpg />,1,2,bat-8
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cattle-16.jpg />,1,2,cattle-16
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device6-5.jpg />,1,2,device6-5
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bat-2.jpg />,1,2,bat-2
+3,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/ray-2.jpg />,1,2,ray-2
+3,1,less complex than ,1,2,Question
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/crown-4.jpg />,1,2,crown-4
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Glas-13.jpg />,1,2,Glas-13
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/watch-1.jpg />,1,2,watch-1
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-17.jpg />,1,2,lmfish-17
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/personal_car-13.jpg />,1,2,personal_car-13
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-4.jpg />,1,2,key-4
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device5-11.jpg />,1,2,device5-11
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/apple-11.jpg />,1,2,apple-11
+3,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/shoe-18.jpg />,1,2,shoe-18
+3,2,less complex than ,1,2,Question
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Bone-15.jpg />,1,2,Bone-15
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/truck-05.jpg />,1,2,truck-05
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/apple-11.jpg />,1,2,apple-11
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/watch-18.jpg />,1,2,watch-18
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-4.jpg />,1,2,key-4
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device3-8.jpg />,1,2,device3-8
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-17.jpg />,1,2,lmfish-17
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/watch-8.jpg />,1,2,watch-8
+3,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Glas-13.jpg />,1,2,Glas-13
+3,3,less complex than ,1,2,Question
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chopper-12.jpg />,1,2,chopper-12
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/personal_car-3.jpg />,1,2,personal_car-3
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/turtle-13.jpg />,1,2,turtle-13
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/frog-19.jpg />,1,2,frog-19
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/stef-06.jpg />,1,2,stef-06
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/stef-13.jpg />,1,2,stef-13
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/frog-6.jpg />,1,2,frog-6
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device1-6.jpg />,1,2,device1-6
+3,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bird-20.jpg />,1,2,bird-20
+3,4,less complex than ,1,2,Question
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-8.jpg />,1,2,key-8
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-3.jpg />,1,2,children-3
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/flatfish-9.jpg />,1,2,flatfish-9
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bell-13.jpg />,1,2,bell-13
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/car-02.jpg />,1,2,car-02
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-6.jpg />,1,2,children-6
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/stef-14.jpg />,1,2,stef-14
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-2.jpg />,1,2,children-2
+3,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-4.jpg />,1,2,children-4
+3,5,less complex than ,1,2,Question
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/carriage-02.jpg />,1,2,carriage-02
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device2-10.jpg />,1,2,device2-10
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spring-13.jpg />,1,2,spring-13
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fly-15.jpg />,1,2,fly-15
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-11.jpg />,1,2,deer-11
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-16.jpg />,1,2,rat-16
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-18.jpg />,1,2,rat-18
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-20.jpg />,1,2,rat-20
+4,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-07.jpg />,1,2,rat-07
+4,1,less complex than ,1,2,Question
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fly-11.jpg />,1,2,fly-11
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/carriage-10.jpg />,1,2,carriage-10
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-03.jpg />,1,2,rat-03
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/beetle-3.jpg />,1,2,beetle-3
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/carriage-18.jpg />,1,2,carriage-18
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-14.jpg />,1,2,deer-14
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-08.jpg />,1,2,rat-08
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/beetle-5.jpg />,1,2,beetle-5
+4,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/rat-10.jpg />,1,2,rat-10
+4,2,less complex than ,1,2,Question
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-8.jpg />,1,2,children-8
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spring-9.jpg />,1,2,spring-9
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-17.jpg />,1,2,key-17
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/spring-8.jpg />,1,2,spring-8
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/jar-8.jpg />,1,2,jar-8
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cup-1.jpg />,1,2,cup-1
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fish-18.jpg />,1,2,fish-18
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/truck-09.jpg />,1,2,truck-09
+4,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-20.jpg />,1,2,key-20
+4,3,less complex than ,1,2,Question
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Glas-14.jpg />,1,2,Glas-14
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/sea_snake-14.jpg />,1,2,sea_snake-14
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/personal_car-19.jpg />,1,2,personal_car-19
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/watch-14.jpg />,1,2,watch-14
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/sea_snake-19.jpg />,1,2,sea_snake-19
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Heart-13.jpg />,1,2,Heart-13
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device4-8.jpg />,1,2,device4-8
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/brick-08.jpg />,1,2,brick-08
+4,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/personal_car-11.jpg />,1,2,personal_car-11
+4,4,less complex than ,1,2,Question
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device6-20.jpg />,1,2,device6-20
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device9-4.jpg />,1,2,device9-4
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/apple-6.jpg />,1,2,apple-6
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/hammer-6.jpg />,1,2,hammer-6
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Comma-1.jpg />,1,2,Comma-1
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Comma-6.jpg />,1,2,Comma-6
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bottle-04.jpg />,1,2,bottle-04
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/apple-8.jpg />,1,2,apple-8
+4,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device6-6.jpg />,1,2,device6-6
+4,5,less complex than ,1,2,Question
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chicken-15.jpg />,1,3,chicken-15
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/beetle-8.jpg />,1,3,beetle-8
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cattle-14.jpg />,1,3,cattle-14
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/horse-4.jpg />,1,3,horse-4
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/elephant-7.jpg />,1,3,elephant-7
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/elephant-18.jpg />,1,3,elephant-18
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/butterfly-3.jpg />,1,3,butterfly-3
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/beetle-16.jpg />,1,3,beetle-16
+5,1,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/horse-3.jpg />,1,3,horse-3
+5,1,as complex as ,1,3,Question
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/flatfish-9.jpg />,1,3,flatfish-9
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/key-8.jpg />,1,3,key-8
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/car-02.jpg />,1,3,car-02
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-3.jpg />,1,3,children-3
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/stef-14.jpg />,1,3,stef-14
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/bell-13.jpg />,1,3,bell-13
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-4.jpg />,1,3,children-4
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/children-6.jpg />,1,3,children-6
+5,2,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/lmfish-4.jpg />,1,3,lmfish-4
+5,2,as complex as ,1,3,Question
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/stef-16.jpg />,1,3,stef-16
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/car-05.jpg />,1,3,car-05
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/classic-7.jpg />,1,3,classic-7
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/stef-02.jpg />,1,3,stef-02
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Misk-19.jpg />,1,3,Misk-19
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/turtle-9.jpg />,1,3,turtle-9
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/car-01.jpg />,1,3,car-01
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/Bone-19.jpg />,1,3,Bone-19
+5,3,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/tree-18.jpg />,1,3,tree-18
+5,3,as complex as ,1,3,Question
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fly-5.jpg />,1,3,fly-5
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fly-4.jpg />,1,3,fly-4
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-16.jpg />,1,3,deer-16
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-20.jpg />,1,3,deer-20
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-5.jpg />,1,3,deer-5
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-17.jpg />,1,3,deer-17
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device0-10.jpg />,1,3,device0-10
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/deer-18.jpg />,1,3,deer-18
+5,4,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fly-17.jpg />,1,3,fly-17
+5,4,as complex as ,1,3,Question
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/frog-9.jpg />,1,3,frog-9
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/butterfly-16.jpg />,1,3,butterfly-16
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/ray-7.jpg />,1,3,ray-7
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/device5-7.jpg />,1,3,device5-7
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/tree-20.jpg />,1,3,tree-20
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/chicken-7.jpg />,1,3,chicken-7
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/fork-4.jpg />,1,3,fork-4
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/tree-13.jpg />,1,3,tree-13
+5,5,<img src=http://web.engr.oregonstate.edu/~grimmc/Images/cattle-19.jpg />,1,3,cattle-19
+5,5,as complex as ,1,3,Question
